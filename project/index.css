@@ -1,0 +1,12 @@
+body {
+    background-color: gray
+}
+ 
+.container {
+    height: 400px;
+    width:400px;
+    background-color:beige;
+    margin: 100px;
+    border-radius:10px;
+    padding-left:  15%;
+}
